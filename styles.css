@@ -1,0 +1,67 @@
+/* CSS for styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #1d1b19;
+  }
+  
+  header {
+    background-color: #273543;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  nav {
+    background-color: #223a31;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: #a59ba9;
+    text-decoration: none;
+  }
+  
+  nav a {
+    color: #224523;
+    text-decoration: none;
+    padding: 5px 10px;
+  }
+
+  nav a:hover {
+    background-color: #988390;
+    color: #F0FFF0;
+  }
+
+  main {
+    margin: 20px;
+  }
+  
+  section {
+    padding: 20px;
+    margin: 20px;
+    background-color: #49213e;
+  }
+  
+  footer {
+    background-color: #4b6b5e;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
